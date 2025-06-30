@@ -130,6 +130,7 @@ Name servers
 
 Status links
 
+[output.pdf](https://github.com/user-attachments/files/20984404/output.pdf)
 
 
 
