@@ -80,15 +80,13 @@ Libraries: whois
 
 # OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/8c76276d-4923-4d70-8933-ebdade3dc684)
-
 # Port Scanner
 
 Host: 127.0.0.1
 
 Open Ports Detected: 80, 135, 443, 445
 
-![Image](https://github.com/user-attachments/assets/f18c52fe-7678-4d28-90a2-21f60c5fd22b)
+![Image](https://github.com/user-attachments/assets/8c76276d-4923-4d70-8933-ebdade3dc684)
 
 # SSH Brute Forcer 
 
@@ -98,7 +96,7 @@ Port: 22
 
 Username Prompted: user
 
-![Image](https://github.com/user-attachments/assets/abfaba19-7e61-47ad-ae47-c1161001974b)
+![Image](https://github.com/user-attachments/assets/f18c52fe-7678-4d28-90a2-21f60c5fd22b)
 
 # HTTP Directory Bruteforcer
 
@@ -106,7 +104,7 @@ Base URL: http://localhost/dvwa/
 
 Found Path: /setup.php
 
-![Image](https://github.com/user-attachments/assets/98865e7c-67a8-4cb4-b043-9f6b1aa34790)
+![Image](https://github.com/user-attachments/assets/abfaba19-7e61-47ad-ae47-c1161001974b)
 
 # Banner Grabber
 
@@ -116,9 +114,7 @@ Port: 80
 
 Banner: HTTP/1.1 302 Found
 
-![Image](https://github.com/user-attachments/assets/dc6a95bb-b88d-4efd-a644-c20f38dc58a2)
-
-![Image](https://github.com/user-attachments/assets/b9cb52d5-2cfa-4cc9-ae07-fe28cde2f90c)
+![Image](https://github.com/user-attachments/assets/98865e7c-67a8-4cb4-b043-9f6b1aa34790)
 
 # WHOIS Lookup
 
@@ -134,8 +130,9 @@ Name servers
 
 Status links
 
+![Image](https://github.com/user-attachments/assets/dc6a95bb-b88d-4efd-a644-c20f38dc58a2)
 
-
+![Image](https://github.com/user-attachments/assets/b9cb52d5-2cfa-4cc9-ae07-fe28cde2f90c)
 
 
 
