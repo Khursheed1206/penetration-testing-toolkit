@@ -130,10 +130,6 @@ Name servers
 
 Status links
 
-![Image](https://github.com/user-attachments/assets/dc6a95bb-b88d-4efd-a644-c20f38dc58a2)
-
-![Image](https://github.com/user-attachments/assets/b9cb52d5-2cfa-4cc9-ae07-fe28cde2f90c)
-
 
 
 
